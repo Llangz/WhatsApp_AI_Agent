@@ -53,7 +53,7 @@ LipaChat/
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/WhatsApp_AI_Agent.git
-   cd LipaChat
+   cd WhatsApp_AI_Agent
    ```
 
 2. Create and activate a virtual environment:
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/LipaChat](https://github.com/yourusername/LipaChat) 
+Project Link: [https://github.com/yourusername/LipaChat](https://github.com/yourusername/WhatsApp_AI_Agent) 
