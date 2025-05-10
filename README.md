@@ -1,6 +1,6 @@
-# LipaChat - WhatsApp AI Marketing & Customer Care Platform
+WhatsApp AI Marketing & Customer Care Platform
 
-LipaChat is an AI-powered WhatsApp platform that helps businesses automate their marketing and customer care operations. Built with CrewAI, it enables companies to send automated marketing campaigns and build intelligent chatbots to grow their business through WhatsApp.
+This is an AI-powered WhatsApp platform that helps businesses automate their marketing and customer care operations. Built with CrewAI, it enables companies to send automated marketing campaigns and build intelligent chatbots to grow their business through WhatsApp.
 
 ## Features
 
