@@ -52,7 +52,7 @@ LipaChat/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/LipaChat.git
+   git clone https://github.com/yourusername/WhatsApp_AI_Agent.git
    cd LipaChat
    ```
 
