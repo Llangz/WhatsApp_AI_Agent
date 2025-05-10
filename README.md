@@ -31,7 +31,7 @@ This is an AI-powered WhatsApp platform that helps businesses automate their mar
 ## Project Structure
 
 ```
-LipaChat/
+WhatsApp_AI_Agent/
 ├── agents/           # AI agents for different tasks
 │   ├── base_agent.py
 │   ├── marketing_agent.py
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/LipaChat](https://github.com/yourusername/WhatsApp_AI_Agent) 
+Project Link: [https://github.com/yourusername/WhatsApp_AI_Agent](https://github.com/yourusername/WhatsApp_AI_Agent) 
